@@ -8,6 +8,8 @@ public class CountCharOccurence {
 		
 		int result=str.length()-str.replaceAll("e", "").length();
 		System.out.println(result);
+		if(){
+		}
 	}
 
 }
